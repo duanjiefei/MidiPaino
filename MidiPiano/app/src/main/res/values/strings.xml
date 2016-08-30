@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkyPiano</string>
+    <string name="synth_sender_text">Select Sender for Synth</string>
+    <string name="error_port_busy">Selected port is in use or unavailable.</string>
+    <string name="port_open_ok">Port opened OK.</string>
+    <string-array name="senders">
+        <item>"none"</item>
+    </string-array>
+</resources>
